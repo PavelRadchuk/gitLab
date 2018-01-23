@@ -1,8 +1,12 @@
 # gitLab
-##team
-*Alex
-*Bob
-*Madison
-*Yanni
-##Clients
-*Mei
+## team
+* Alex
+* Bob
+* Madison
+* Yanni
+* Ziggy
+## Clients
+* Mei
+
+
+
