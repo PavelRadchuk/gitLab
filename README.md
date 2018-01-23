@@ -1,3 +1,4 @@
 # gitLab
 ##team
 *Alex
+*Bob
