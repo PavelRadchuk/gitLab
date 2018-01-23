@@ -2,4 +2,3 @@
 ##team
 *Alex
 *Bob
-*madison
